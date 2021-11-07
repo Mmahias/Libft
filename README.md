@@ -15,7 +15,7 @@ Succeeded with:
 ```bash
 make
 ```
-* Compile with Bonuses:
+* Compile with Bonuses: _(Linked lists)_
 
 ```bash
 make bonus
