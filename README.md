@@ -10,7 +10,7 @@ Succeeded with:
 
 ## Usage:
 
-* Compile without Bonus:
+* Compile without Bonuses:
 
 ```bash
 make
